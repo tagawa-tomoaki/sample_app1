@@ -42,3 +42,6 @@ end
 
 # Windows ではタイムゾーン情報用の tzinfo-data gem を含める必要があります
 # gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
+gem 'faker', '2.21.0'
+gem 'will_paginate', '3.3.1'
+gem 'bootstrap-will_paginate', '1.0.0'
